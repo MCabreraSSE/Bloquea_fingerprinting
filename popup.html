@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Anti-Fingerprinting Extension</title>
+    <style>
+      body {
+        font-family: Arial, sans-serif;
+        padding: 20px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>Anti-Fingerprinting</h1>
+    <form id="settingsForm">
+      <label for="userAgent">User-Agent:</label>
+      <input type="text" id="userAgent" name="userAgent" value="Custom User-Agent"><br><br>
+      <label for="screenWidth">Screen Width:</label>
+      <input type="number" id="screenWidth" name="screenWidth" value="1920"><br><br>
+      <label for="screenHeight">Screen Height:</label>
+      <input type="number" id="screenHeight" name="screenHeight" value="1080"><br><br>
+      <button type="submit">Save</button>
+    </form>
+    <script src="popup.js"></script>
+  </body>
+</html>

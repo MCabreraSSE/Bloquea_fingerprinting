@@ -1,4 +1,3 @@
-El fingerprinting (o toma de huellas digitales) en el contexto de la informática y la ciberseguridad se refiere a la recopilación de información específica sobre dispositivos, navegadores o usuarios para identificarlos de manera única. Este proceso puede ser utilizado para diversos fines, como la mejora de la seguridad, la personalización de servicios, y también en actividades maliciosas.
 
 Tipos de Fingerprinting
 Browser Fingerprinting:
